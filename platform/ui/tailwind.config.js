@@ -25,14 +25,14 @@ module.exports = {
       inherit: 'inherit',
 
       aqua: {
-        pale: '#7bb2ce',
+        pale: 'white',
       },
 
       primary: {
-        light: '#5acce6',
+        light: 'white',
         main: '#0944b3',
-        dark: '#090c29',
-        active: '#348cfd',
+        dark: '#1C1D1F',
+        active: 'white',
       },
       inputfield: {
         main: '#3a3f99',
@@ -42,9 +42,9 @@ module.exports = {
       },
 
       secondary: {
-        light: '#3a3f99',
+        light: 'gray',
         main: '#2b166b',
-        dark: '#041c4a',
+        dark: 'black',
         active: '#1f1f27',
       },
 
